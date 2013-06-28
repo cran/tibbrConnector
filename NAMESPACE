@@ -1,0 +1,12 @@
+export(tibbr.connect)
+export(tibbr.disconnect)
+export(tibbr.post)
+export(tibbr.subject)
+export(tibbr.user)
+
+S3method(print, tibbrConnection)
+S3method(print, tibbrSubject)
+S3method(print, tibbrUser)
+S3method(postingName, tibbrSubject)
+S3method(postingName, tibbrUser)
+S3method(postingName, character)

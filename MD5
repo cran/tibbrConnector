@@ -1,0 +1,14 @@
+d34927310c815351ce953f9cb2019fe9 *DESCRIPTION
+a213c16377d431f52f86ec01914aa21b *LICENSE
+4a06832b75904a22760d700af708d431 *NAMESPACE
+2f6b941825f7ba178490c47bdfaeac25 *R/HTTPutils.R
+c82720f893dc08f7160e50dc36467f2d *R/JSONutils.R
+6126e99169d5178ec20e9c8b22bdf76f *R/classes.R
+86620c1fa4d3ec4dee5dc50d2ed4b290 *R/connect.R
+6794c5ca10113c08ab2e0fc828ecd74b *R/post.R
+be479d2126bea1ebfc926b003175f215 *R/subject.R
+b5b486aba4b90c62e17ac8ebbfe11bfa *R/user.R
+ddd086e99706087b956013966d42ec67 *man/tibbr.connect.Rd
+2c484a0bb1974dc3211538376a2cf075 *man/tibbr.post.Rd
+3af272b68ab62c1cadb6dec0ce52286b *man/tibbr.subject.Rd
+2c6b281334289f8a82dc2dabcfe1114d *man/tibbr.user.Rd
