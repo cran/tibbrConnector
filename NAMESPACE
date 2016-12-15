@@ -1,3 +1,8 @@
+importFrom("methods", "is")
+importFrom("utils", "URLencode")
+importFrom("RCurl", "basicTextGatherer", "curlPerform", "guessMIMEType")
+importFrom("rjson", "fromJSON")
+
 export(tibbr.connect)
 export(tibbr.disconnect)
 export(tibbr.post)
